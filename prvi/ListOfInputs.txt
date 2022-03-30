@@ -1,0 +1,30 @@
+Shirt
+Blue Cotton Shirt
+BrandS
+14.99
+M
+blue
+Shirt
+White Cotton Shirt
+BrandS
+15.99
+M
+white
+Trousers
+Black Cotton Trousers,
+BrandT
+29.99
+50
+black
+Shoes
+Black Leather Shoes
+BrandS
+59.99
+43
+black
+Jacket
+Black Cotton Suit Jacket
+BrandJ 
+99.99
+50
+black
